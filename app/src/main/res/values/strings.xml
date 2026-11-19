@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pedro raccoon Glyph Toy</string>
+    <string name="toy_name">Pedro the raccoon</string>
+    <string name="toy_summary">Loops a dancing Pedro on the Glyph Matrix.</string>
+    <string name="brightness">Brightness</string>
+    <string name="grant_permissions">Allow call detection</string>
+    <string name="activate">Add to Glyph Toys</string>
+    <string name="hint">After adding, press the Glyph Button on the back to cycle toys. The animation loops until you switch to another toy, and also plays when the phone rings.</string>
+    <string name="no_gif">No GIF bundled yet – showing a placeholder</string>
+    <string name="status_fmt">%1$d frames · %2$.1f s</string>
+    <string name="watching_calls">Listening for calls</string>
+    <string name="manager_missing">Open manually: Settings → Glyph Interface → Glyph Toys</string>
+</resources>

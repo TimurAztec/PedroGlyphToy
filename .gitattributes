@@ -1,0 +1,12 @@
+# Normalise line endings
+* text=auto
+
+# Shell script must keep LF or it breaks on Linux (GitHub Actions)
+gradlew text eol=lf
+*.bat text eol=crlf
+
+# Binary files: never touch
+*.gif binary
+*.png binary
+*.jar binary
+*.aar binary
