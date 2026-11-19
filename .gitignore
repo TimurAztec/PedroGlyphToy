@@ -16,6 +16,10 @@ local.properties
 *.aab
 *.jks
 *.keystore
+*.p12
+*.pfx
+KEY/
+key/
 
 # OS
 .DS_Store
